@@ -1,0 +1,1 @@
+lbfgs,exp_netcombined_city,0.8,0.005,0.1,input_images/guitar.jpg,input_images/flower.jpg,lbfgs_results/,200,-1,1,12345

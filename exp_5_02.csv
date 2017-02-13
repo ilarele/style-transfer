@@ -1,0 +1,4 @@
+lbfgs,exp_simple1,0.8,0.001,0.1,input_images/sky.jpg,input_images/starry_night.jpg,exp_simple_results/,100,0,1,135
+lbfgs,exp_simple2,0.89,0.001,0.1,input_images/sky.jpg,input_images/starry_night.jpg,exp_simple_results/,100,0,1,123
+lbfgs,exp_simple3,0.89,0.008,0.01,input_images/sky.jpg,input_images/starry_night.jpg,exp_simple_results/,100,0,1,345
+lbfgs,exp_simple4,0.89,0.00001,0.001,input_images/sky.jpg,input_images/starry_night.jpg,exp_simple_results/,100,0,1,235
